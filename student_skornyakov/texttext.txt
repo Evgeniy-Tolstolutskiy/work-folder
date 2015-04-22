@@ -3,3 +3,6 @@ texttexttexttexttexttexttexttexttexttexttexttexttexttext
 texttexttexttexttexttexttexttexttexttexttexttexttexttext
 texttexttexttexttexttexttexttexttexttexttexttexttexttext
 Сделаем изменения в файле txt_litvinov.txt и проиндексируем файл (команда git add). 
+Сделаем изменения в файле txt_litvinov.txt и проиндексируем файл (команда git add). Сделаем изменения в файле txt_litvinov.txt и проиндексируем файл (команда git add). 
+Сделаем изменения в файле txt_litvinov.txt и проиндексируем файл (команда git add). Сделаем изменения в файле txt_litvinov.txt и проиндексируем файл (команда git add). 
+Сделаем изменения в файле txt_litvinov.txt и проиндексируем файл (команда git add). 
