@@ -6,8 +6,3 @@ texttexttexttexttexttexttexttexttexttexttexttexttexttext
 Сделаем изменения в файле txt_litvinov.txt и проиндексируем файл (команда git add). Сделаем изменения в файле txt_litvinov.txt и проиндексируем файл (команда git add). 
 Сделаем изменения в файле txt_litvinov.txt и проиндексируем файл (команда git add). Сделаем изменения в файле txt_litvinov.txt и проиндексируем файл (команда git add). 
 Сделаем изменения в файле txt_litvinov.txt и проиндексируем файл (команда git add). 
-123
-123
-123123123
-123123123213
-123123123123
